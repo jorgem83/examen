@@ -1,1 +1,1 @@
-<?php include_once("pagina.html");?>
+<?php include_once("amazon.html");?>
